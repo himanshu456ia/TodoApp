@@ -47,6 +47,7 @@ function Sidebar() {
           {firstName} {lastName}
         </h1>
       </div>
+      
       <ul className="nav-items">
         {menu.map((item) => {
           const link = item.link;

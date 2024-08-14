@@ -1,0 +1,3 @@
+things to learn 
+clerk
+Prisma and mongodb
